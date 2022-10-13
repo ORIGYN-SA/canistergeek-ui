@@ -11,8 +11,12 @@ If you want to test your project locally, you can start a development server wit
 ```bash
 # Install all dependencies
 npm install
+# Build
+npm run build
 # Start local server on port 3001
 npm run start
+# If you get webpack-cli error run the following then do the npm run start
+npm install --save-dev webpack-cli
 ```
 
 Which will start a server at `http://localhost:3001`, proxying API requests to the replica at port 8000.
