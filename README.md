@@ -1,6 +1,6 @@
 # Canistergeek UI
 
-This is a [modified fork of Canistergeek UI.](https://github.com/usergeek/canistergeek-demo-ui) This repo is a sample frontend application that utilizes [canistergeek-js](https://github.com/ORIGYN-SA/canistergeek-js) to create a Logs & Metrics dashboard for [Origyn NFT](https://github.com/ORIGYN-SA/origyn_nft).
+This repo is a [modified version of Canistergeek Demo UI.](https://github.com/usergeek/canistergeek-demo-ui) This repo is a sample frontend application that utilizes [canistergeek-js](https://github.com/ORIGYN-SA/canistergeek-js) to create a Logs & Metrics dashboard for [Origyn NFT](https://github.com/ORIGYN-SA/origyn_nft).
 
 > canistergeek-js should be used together with [Canistergeek-Motoko](https://github.com/ORIGYN-SA/canistergeek-ic-motoko) - open-source library for Internet Computer to track your project canisters cycles and memory status.
 
