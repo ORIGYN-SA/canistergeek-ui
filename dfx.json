@@ -1,6 +1,6 @@
 {
   "canisters": {
-    "canistergeek-demo-ui": {
+    "origyn_canister_geek_ui": {
       "frontend": {
         "entrypoint": "src/landing_assets/src/index.html"
       },
